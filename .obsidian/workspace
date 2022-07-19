@@ -7,9 +7,11 @@
         "id": "ed81e3b97a67871f",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Fonts/mono.png.png"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Fonts/mono.png.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Fonts/mono.png.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Fonts/mono.png.png"
+                "file": "README.md"
               }
             }
           }
@@ -126,11 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a5e02aa0c9284ef",
+  "active": "ed81e3b97a67871f",
   "lastOpenFiles": [
+    "Images/Fonts/Jetbrains_mono.png",
     "Fonts.md",
-    "REAME.md.md",
-    "Images/Fonts/mono.png.png",
+    "README.md",
     "Images/Fonts/Fonts_Nerd_Font.png"
   ]
 }
