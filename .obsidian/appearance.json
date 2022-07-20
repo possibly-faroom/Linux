@@ -1,1 +1,12 @@
-{}
+{
+  "cssTheme": "Deep Work",
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ]
+}

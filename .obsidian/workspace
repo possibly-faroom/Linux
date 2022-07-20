@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source",
+            "mode": "preview",
+            "backlinks": false,
             "source": false
           }
         }
@@ -120,8 +121,17 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "f14a9b87e32f7f2b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -130,9 +140,15 @@
   },
   "active": "ed81e3b97a67871f",
   "lastOpenFiles": [
-    "Images/Fonts/Jetbrains_mono.png",
-    "Fonts.md",
+    "Nvim.md",
+    "Styles/Fonts.md",
+    "Styles/Collor Palletes.md",
     "README.md",
-    "Images/Fonts/Fonts_Nerd_Font.png"
+    "Resource/Style/Collor Palletes/CloudFrenzy.png",
+    "Resource/Style/Collor Palletes/Theory_of_5.png",
+    "Resource/Style/Collor Palletes/Red_Velvete.png",
+    "Resource/Style/Collor Palletes/Cool_Beans.png",
+    "jim.md",
+    "Resource/Nvim/alpha_nvim.png"
   ]
 }

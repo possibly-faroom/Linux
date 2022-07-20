@@ -7,5 +7,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
